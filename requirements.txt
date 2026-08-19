@@ -1,0 +1,7 @@
+numpy==2.3.5
+pandas==2.2.3
+torch==2.13.0
+yfinance==1.6.0
+matplotlib==3.11.1
+streamlit==1.61.1
+pytest==9.1.1

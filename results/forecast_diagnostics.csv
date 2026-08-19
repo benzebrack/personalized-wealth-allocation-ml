@@ -1,0 +1,2 @@
+evaluated_months,asset_month_observations,mean_absolute_error,zero_forecast_mean_absolute_error,root_mean_squared_error,directional_accuracy,mean_monthly_rank_information_coefficient,positive_rank_ic_month_fraction,model_beats_zero_forecast_mae,scope
+138,966,0.0312512793333656,0.02897652226215482,0.04339154554313784,0.4979296066252588,-0.024585921325051774,0.4855072463768116,False,"raw neural predictions before momentum anchor, constraints, and costs"
